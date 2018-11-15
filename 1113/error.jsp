@@ -1,10 +1,10 @@
-<%$ page contentType="text/html;charset=UTF-8" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <%! String title = "サーバサイドjavaの学習"; %>
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8" />
-		<title><%= title; %></title>
+		<title><%= title %></title>
 	</head>
 	<body>
 	<%
